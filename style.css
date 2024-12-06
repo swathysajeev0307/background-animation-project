@@ -30,7 +30,7 @@
 .container span::before{
     content: "";
     position: absolute;
-    background: url("background-animation-project\images\img1.jpg");
+    background: url('images\img1.jpg');
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
